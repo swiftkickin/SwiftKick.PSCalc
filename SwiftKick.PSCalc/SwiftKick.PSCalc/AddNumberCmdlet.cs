@@ -5,6 +5,8 @@ using System.Management.Automation;
 using System.Text;
 using System.Threading.Tasks;
 
+// https://www.red-gate.com/simple-talk/dotnet/net-development/using-c-to-create-powershell-cmdlets-the-basics/#third
+
 namespace SwiftKick.PSCalc
 {
     [Cmdlet("Add", "Number")]
